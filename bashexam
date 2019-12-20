@@ -1,0 +1,4 @@
+#!/bin/bash
+wget https://www.w3.org/TR/PNG/iso_8859-1.txt
+tail -n 11 iso_8859-1.txt	
+
