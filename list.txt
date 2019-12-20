@@ -1,0 +1,4 @@
+findtxt.sh
+newscr.sh
+file.txt
+
